@@ -54,12 +54,21 @@
     </form>
     <script src="Scripts/jquery-2.2.4.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
-        <div> &nbsp;<br />
+        <div> 
             <br />
-            <br />
-            <br />
-            <br />
-            <br />
+             <br />
+             <br />
+             <br />
+             <br />
+              <br />
+             <br />  <br />
+             <br />  <br />
+             <br />
+
+
+
+ 
+       
         </div>
     <footer style="height: 22px">&nbsp; ©Copy right Syed Nasir COMP229, Assignment01 Centennial College</footer>        
     </div>

@@ -1,0 +1,30 @@
+﻿body {
+}
+label{
+    text-decoration-color:palegreen;
+    font-size:x-large;
+}
+#ContactPage
+{
+    width:500px;
+    margin-left:auto;
+    margin-left:auto;
+    background-color:azure;
+}
+table.center{
+        margin-left:auto; 
+    margin-right:auto;
+   
+}
+ table td
+ {
+     font-size:x-large;
+     color:beige;
+     text-align:right;
+
+ }
+ input{
+     font-size:medium;
+       color:black;
+       background-color:azure;
+ }
