@@ -70,6 +70,7 @@
     <Content Include="contact.aspx" />
     <Content Include="Content\myStyle.css" />
     <Content Include="Default.aspx" />
+    <Content Include="images\coollogo_com-28895735.png" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <Content Include="Site.Master" />

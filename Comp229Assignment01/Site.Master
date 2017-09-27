@@ -20,6 +20,7 @@
 </head>
 <body>
     <div id="allpage">
+        
     <form id="form1" runat="server">
     <div>
         <nav class="navbar navbar-default">
@@ -53,7 +54,14 @@
     </form>
     <script src="Scripts/jquery-2.2.4.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
-    <footer style="height: 22px">&nbsp; ©Copy right Syed Nasir COMP229, Assignment01 Centennial College</footer>
+        <div> &nbsp;<br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+    <footer style="height: 22px">&nbsp; ©Copy right Syed Nasir COMP229, Assignment01 Centennial College</footer>        
     </div>
 </body>
 </html>
