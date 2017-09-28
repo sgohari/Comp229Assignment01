@@ -49,6 +49,10 @@
 </nav>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         
+            <p>
+                <br />
+            </p>
+        
         </asp:ContentPlaceHolder>
     </div>
     </form>
@@ -56,8 +60,12 @@
     <script src="Scripts/bootstrap.min.js"></script>
         <div> 
 
+            <br />
+            <br />
+
         </div>
-    <footer style="height: 22px">&nbsp; ©Copy right Syed Nasir COMP229, Assignment01 Centennial College</footer>        
+    <footer style="height: 22px">&nbsp; ©Copy right Syed Nasir COMP229, Assignment01 Centennial College</footer>
+        
     </div>
 </body>
 </html>

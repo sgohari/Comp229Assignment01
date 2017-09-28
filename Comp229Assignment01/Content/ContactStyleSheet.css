@@ -4,12 +4,14 @@ label{
     text-decoration-color:palegreen;
     font-size:x-large;
 }
-#ContactPage
+#parents
 {
-    width:500px;
+    width:900px;
     margin-left:auto;
     margin-left:auto;
-    background-color:azure;
+    color:blue;
+    font-size:large;
+
 }
 table.center{
         margin-left:auto; 
@@ -19,7 +21,7 @@ table.center{
  table td
  {
      font-size:x-large;
-     color:beige;
+     color:blue;
      text-align:right;
 
  }
@@ -27,4 +29,62 @@ table.center{
      font-size:medium;
        color:black;
        background-color:azure;
- }
+    width: 170px;
+}
+.PaddtoLeft {
+    padding-left:5px;
+}
+
+.Lu {
+    display: inline;
+
+} 
+.Li 
+{
+     list-style: none;display: inline;
+
+}
+.Width {
+    width:170px;
+    height:30px;
+    padding-top:10px;
+}
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}

@@ -3,53 +3,56 @@
     <link href="Content/ContactStyleSheet.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-     <img src="images/ContactMeLogo.gif" class="imgEdit" />
-    <div>
+    <div id="parents">
+        
+        <img src="images/ContactMeLogo.gif" class="imgEdit" />
+        <h2 class="PaddtoLeft">Contact Details</h2>
+        <p class="PaddtoLeft">My Name is Syed Nasir and you can reach me by the following options:</p>
+        <ul>
+            <li>Email-ID : sgohary@my.centennialcollege.ca</li>
+            <li>Workd Address : 941 Progress Avenue</li>
+            <li>Phone Number: 416-000-0000</li>
+        </ul>
           <div style="text-align:center;">
+              
 <table class="center">
     <tr>
         <td>
             Name:
-               <br />
-            <br />
         </td>
      
-        <td> <input type="text" /> <br /><br /></td>
+        <td> <input type="text" class="Width"/></td>
     </tr>
         <tr>
         <td>
             Contact:
-                           <br />
-            <br />
+          
         </td>
-        <td> <input type="text" /> <br /><br /></td>
-    </tr>
-        <tr>
-        <td>
-            Email ID:
-                           <br />
-            <br />
-        </td>
-        <td> <input type="text" /> <br /> <br /></td>
+        <td> <input type="text" class="Width"/></td>
     </tr>
         <tr>
         <td>
             Comment:
-                           <br />
-            <br />
         </td>
-        <td> <input type="text" /> <br /> <br /></td>
+        <td> <input type="text" class="Width" /> </td>
     </tr>
     <tr>
             <td>
-            <input type="button" />
-                           <br />
-            <br />
+
         </td>
     
-        <td> <input type="button" name="Submit" /> <br /> <br /></td>
+        <td ><button class="button" style="vertical-align:middle"><span>Send </span></button></td>
     </tr>
 </table>
               </div>
+        <h2 class="PaddtoLeft">Stay conntected with me with Following:</h2>
+            <ul class="Lu">
+                <li class="Li"><a href="https://twitter.com/GSnacir"><img src="images/twitterLogo.png" /></a></li>
+                <li class="Li"><a href="https://www.instagram.com/mancity/?hl=en"><img src="images/insta-logo.png" /></a></li>
+                <!---Manchester City Football Club Instgram Account---->
+                <li class="Li"><a href="https://discordapp.com/channels/@me"><img src="images/DiscordLogo.png" /></a></li>
+            </ul>
+        
+
     </div>
-</asp:Content>
+    </asp:Content>

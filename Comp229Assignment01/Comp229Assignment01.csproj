@@ -78,9 +78,12 @@
     <Content Include="images\aboutmee.gif" />
     <Content Include="images\ContactMe.png" />
     <Content Include="images\ContactMeLogo.gif" />
+    <Content Include="images\DiscordLogo.png" />
+    <Content Include="images\insta-logo.png" />
     <Content Include="images\Logo.png" />
     <Content Include="images\mainLogo.png" />
     <Content Include="images\MainPageLogo.png" />
+    <Content Include="images\twitterLogo.png" />
     <Content Include="images\txtContct.gif" />
     <Content Include="images\txtlogo.gif" />
     <Content Include="packages.config" />
