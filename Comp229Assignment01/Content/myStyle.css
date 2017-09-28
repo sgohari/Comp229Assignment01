@@ -22,8 +22,19 @@ footer {
     width:100%;
 }
 .imgeMainPage{
-    width:250px;
-    height:300px;
+    width:300px;
+    height:141px;
     padding-right:5px;
 
+}
+.imgeMainPageRigh{
+    width:200px;
+    height:148px;
+    padding-right:5px;
+
+}
+.ForP{
+    font-size:x-large;
+    color:blue;
+    padding-left:5px;
 }

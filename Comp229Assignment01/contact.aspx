@@ -3,10 +3,7 @@
     <link href="Content/ContactStyleSheet.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h1>
-     <img src="images/txtContct.gif" class="imgEdit" />
-
-    </h1> 
+     <img src="images/ContactMeLogo.gif" class="imgEdit" />
     <div>
           <div style="text-align:center;">
 <table class="center">
