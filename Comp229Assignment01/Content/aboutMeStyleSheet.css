@@ -1,10 +1,4 @@
-﻿.forPic
-{
-    border-radius: 15px;
-    padding-top:00px;
-}
-
-h1
+﻿h1
 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size:xx-large;
@@ -13,8 +7,106 @@ h1
     text-transform:uppercase;
     border-radius:15px;
 }
-#AboutMe {
+.ToRight{
+    text-align:center;  
+
+}
+.ToLeft{
+    font-size:x-large;
+        text-align:center
+}
+.AboutMe {
     width:900px;
-    margin-left:auto;
+    margin-left:0px;
+    margin-right:35px;
+    height:874px;
+
+}
+.floatingRight {
+    float: right;
+    width: 238px;
+    height: 266px;
     margin-right:auto;
+    margin-left:auto;
+    border: 3px solid #73AD21;  
+}
+.floatingLeft {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    float: left;
+    width: 429px;
+    height: 235px;
+    margin: 10px;
+}
+.afterPicture {
+    float:right;
+    border: none;      
+    width:200px;
+   }
+h2{
+    color:blue;
+    font-size:x-large;
+    padding-left:5px;
+}
+p{
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:maroon;
+    padding-left:5px;
+    
+}
+.RightTop {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    float: right;
+    width: 200px;
+    height: 192px;
+    background-color:gray;
+}
+.LeftTop {
+    border-style: none;
+    float: left;
+    width: 350px;
+    height: 192px;
+    opacity:0.9;
+    background-color:gray;
+   
+}
+.LongDiv {
+    clear: left;
+       
+}
+.round
+{
+	border-radius:50px;
+}
+.rounForlogo{
+    border-radius:15px;
+}
+.careerforRight {
+    float: right;
+    width: 265px;
+    height: 355px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 7px;
+}
+.careerforLeft {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    float: left;
+    width: 293px;
+    height: 328px;
+    margin: 10px;
+}
+h4{
+    font-size:large;
+    color:blue;
+    text-transform:uppercase;
+}
+li{
+    list-style:none;
 }

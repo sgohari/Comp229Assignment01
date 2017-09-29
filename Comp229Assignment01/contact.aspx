@@ -16,6 +16,12 @@
           <div style="text-align:center;">
               
 <table class="center">
+        <tr>
+        <td colspan="2">
+            Send your comment Here
+        </td>
+     
+    </tr>
     <tr>
         <td>
             Name:
@@ -41,16 +47,22 @@
 
         </td>
     
-        <td ><button class="button" style="vertical-align:middle"><span>Send </span></button></td>
+        <td ><button class="Width">Send<br />
+            </button></td>
     </tr>
 </table>
               </div>
-        <h2 class="PaddtoLeft">Stay conntected with me with Following:</h2>
+        <h2 class="PaddtoLeft">Stay connected with me with the Following:</h2>
             <ul class="Lu">
+                <!----Thanks to google.ca/Search---->
                 <li class="Li"><a href="https://twitter.com/GSnacir"><img src="images/twitterLogo.png" /></a></li>
+                <!---link to my Twitter Account-->
+                <!----Thanks to google.ca/Search---->
                 <li class="Li"><a href="https://www.instagram.com/mancity/?hl=en"><img src="images/insta-logo.png" /></a></li>
                 <!---Manchester City Football Club Instgram Account---->
+                <!----Thanks to google.ca/Search---->
                 <li class="Li"><a href="https://discordapp.com/channels/@me"><img src="images/DiscordLogo.png" /></a></li>
+                <!--My account on Discord App--->
             </ul>
         
 

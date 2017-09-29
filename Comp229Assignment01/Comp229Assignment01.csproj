@@ -73,22 +73,26 @@
     <Content Include="Content\myStyle.css" />
     <Content Include="Content\StyleSheetForDefault.css" />
     <Content Include="Default.aspx" />
-    <Content Include="images\aboutMe.jpg" />
-    <Content Include="images\aboutMe.png" />
     <Content Include="images\aboutmee.gif" />
+    <Content Include="images\astronuts.png" />
+    <Content Include="images\centennialcollege.gif" />
     <Content Include="images\ContactMe.png" />
     <Content Include="images\ContactMeLogo.gif" />
     <Content Include="images\DiscordLogo.png" />
+    <Content Include="images\GitHub.JPG" />
     <Content Include="images\insta-logo.png" />
     <Content Include="images\Logo.png" />
     <Content Include="images\mainLogo.png" />
     <Content Include="images\MainPageLogo.png" />
+    <Content Include="images\programmer.png" />
+    <Content Include="images\soccerplayer.png" />
     <Content Include="images\twitterLogo.png" />
     <Content Include="images\txtContct.gif" />
     <Content Include="images\txtlogo.gif" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <Content Include="Site.Master" />
+    <Content Include="WebForm1.aspx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -158,6 +162,13 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
