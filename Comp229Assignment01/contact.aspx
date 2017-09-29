@@ -34,7 +34,7 @@
             Contact:
           
         </td>
-        <td> <input type="text" class="Width"/></td>
+        <td> <input type="number" class="Width"/></td>
     </tr>
         <tr>
         <td>
@@ -47,7 +47,7 @@
 
         </td>
     
-        <td ><button class="Width">Send<br />
+        <td ><button type="button" class="forButton" onClick="parent.location='Default.aspx'"> Send</a><br />
             </button></td>
     </tr>
 </table>
