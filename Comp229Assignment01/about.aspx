@@ -20,7 +20,7 @@
 <div class="floatingLeft">
     <h2> Tagline</h2>
       <p>Learning is a long life proccess.</p>
-    <h2>MissionStatement</h2>
+    <h2>Mission Statement</h2>
     <p>I want to be a Coder because of the following reasons:</p>
         <ul>
             <li>Coding sparks new ideas</li>
