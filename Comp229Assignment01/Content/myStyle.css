@@ -1,7 +1,13 @@
-﻿body
+﻿/* 
+    stylesheet for the masterpage
+*/
+body
  {
     background-color:grey;
 }
+/*
+    Customizing the dive content
+*/
 #allpage
  {
     margin-left:auto;
@@ -11,6 +17,9 @@
     border-radius: 15px;
     
 }
+/*
+    diffent look for Footer
+*/
 footer {
 	background-color: #FF5050;
 	color: #FFFFFF;

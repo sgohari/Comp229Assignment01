@@ -10,7 +10,7 @@
         <p class="PaddtoLeft">My Name is Syed Nasir and you can reach me by the following options:</p>
         <ul>
             <li>Email-ID : sgohary@my.centennialcollege.ca</li>
-            <li>Workd Address : 941 Progress Avenue</li>
+            <li>Work Address : 941 Progress Avenue</li>
             <li>Phone Number: 416-000-0000</li>
         </ul>
           <div style="text-align:center;">

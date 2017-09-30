@@ -1,4 +1,7 @@
-﻿h1
+﻿/*
+    Customizing the H1 Contents.
+*/
+h1
 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size:xx-large;
@@ -7,14 +10,17 @@
     text-transform:uppercase;
     border-radius:15px;
 }
+/*for centering the text in html tags*/
 .ToRight{
     text-align:center;  
 
 }
+/*Moving */
 .ToLeft{
     font-size:x-large;
         text-align:center
 }
+/* for the main page div*/
 .AboutMe {
     width:900px;
     margin-left:0px;
@@ -22,6 +28,9 @@
     height:874px;
 
 }
+/*
+    Class for using dives on the right side
+*/
 .floatingRight {
     float: right;
     width: 238px;
@@ -30,6 +39,9 @@
     margin-left:auto;
     border: 3px solid #73AD21;  
 }
+/*
+    Class for using dives side by side twice
+*/
 .floatingLeft {
     border-style: none;
     border-color: inherit;

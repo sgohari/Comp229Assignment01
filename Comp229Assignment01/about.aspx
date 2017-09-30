@@ -21,7 +21,7 @@
     <h2> Tagline</h2>
       <p>Learning is a long life proccess.</p>
     <h2>MissionStatement</h2>
-    <p>I want to be a Coder because of the following reaason.</p>
+    <p>I want to be a Coder because of the following reasons:</p>
         <ul>
             <li>Coding sparks new ideas</li>
             <li>Coding incourages to research often</li>
@@ -29,20 +29,19 @@
         </ul>
 </div>
 <div class="floatingLeft">
-    <h2>About Me</h2>
-    <p>Currently, I'm full time student at Centennial College. Six Years of exprience in Administration. From 2012 to 2016 worked as production leadHand. From 2016 to 2017 working as an assembler. </p>
-    <p><br /></p>
+    <h2>Experience</h2>
+    <p>Currently, I'm full time student at Centennial College. Previousely, six Years of exprience in Administration. From 2012 to 2016 worked as production leadHand. From 2016 to 2017 working as an assembler. </p>
 </div>
-        <br />
-<div class="LongDiv">       <h1 class="ToRight"> Career Highlight</h1></div>
+<div class="LongDiv">      <br /> <h1 class="ToRight"> Career Highlight</h1></div>
         <!----Dream Jobs are listed in all three options---->
         <div class="careerforLeft">
             <h4>Administrator at NASA, 2017</h4>
+            <!---- Drea Job of mine--->
             <h4>Job Description:</h4>
             <ul>
                 <li>Arranging the astraunates trips</li>
                 <li>Following their mission to outer space</li>
-                <li>Sending them foods and staff</li>
+                <li>Updating the Meeting Notes</li>
             </ul>
             <img src="images/astronuts.png" />
             <!----Thanks to google.ca/Search---->
@@ -65,8 +64,8 @@
                     <h4>Forward at man city, 2015</h4>
                     <h4>Job Description:</h4>
                     <ul>
-                        <li>Playing in Premeir League.</li>
-                        <li>playing at Champion league.</li>
+                        <li>Playing soccer in Premeir League.</li>
+                        <li>Playing soccer at Champion league.</li>
                         <li>Practcing and playing soccer with friends.</li>
                     </ul>
                     <img src="images/soccerplayer.png" />
