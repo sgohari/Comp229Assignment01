@@ -8,7 +8,7 @@
         <div class="LeftTop">
             <br />
             <h1 class="ToRight">Syed Nasir</h1>
-            <h2 class="ToRight">Sudent/Assembler</h2>
+            <h2 class="ToRight">Student/Assembler</h2>
         </div>
         <div class="LeftTop">
             <img src="images/GitHub.JPG" class="round" />
